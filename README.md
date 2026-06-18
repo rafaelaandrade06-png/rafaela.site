@@ -6,11 +6,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Agro Sustentável </title>
-
-    main {
-background-color: #FFFFFF;
-color: #183C63;
+header {
+background-color: #183C63;
+color: #FFFFFF;
 }
+   
 </head>
 <body>
    <p>Meu blog tech</p>
