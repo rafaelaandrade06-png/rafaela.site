@@ -1,4 +1,4 @@
-# site agrimho 
+## site agrinho 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -10,7 +10,7 @@
 <body>
    <p>Meu blog tech</p>
   <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
- <h2>## Meu primeiro post</h2>
+ <h2> Meu primeiro post</h2>
   <p>Por: Rafaela Andrade </p>
 <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
 
